@@ -24,9 +24,7 @@ if __name__ == "__main__":
     p1_deck, p2_deck = build_deck(p1_spells, p2_spells, lands)
 
     # Save decks as .txt files ready for upload to Cockatrice
-    weirddbeardd = p1_write_path
-    keddril = p2_write_path
-    save_decks(deck_1=p1_deck, deck_2=p2_deck, write_path_1=weirddbeardd, write_path_2=keddril)
+    save_decks(deck_1=p1_deck, deck_2=p2_deck, write_path_1=p1_write_path, write_path_2=p2_write_path)
 
     
     
