@@ -1,7 +1,7 @@
 [project]
 name = "battlebox"
 version = "0.1.0"
-description = "Add your description here"
+description = "A program to manage a playable digital mtg battlebox deck."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
