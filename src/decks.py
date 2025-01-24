@@ -1,4 +1,4 @@
-def build_deck(p1_spells: list, p2_spells: list, lands: list) -> tuple[list, list]:
+def build_decks(p1_spells: list, p2_spells: list, lands: list) -> tuple[list, list]:
     """Build full deck and convert to format required for .txt"""
 
     # Add land values to spell lists - this modifies the spell lists

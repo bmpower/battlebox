@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from load import load_cards
 from separate import separate_lands_spells
 from shuffle import shuffle_and_split_spells
-from decks import build_deck
+from decks import build_decks
 from write import save_decks
 
 
@@ -21,7 +21,7 @@ if __name__ == "__main__":
     cards = load_cards(load_path)
     lands, spells = separate_lands_spells(cards)
     p1_spells, p2_spells = shuffle_and_split_spells(spells)
-    p1_deck, p2_deck = build_deck(p1_spells, p2_spells, lands)
+    p1_deck, p2_deck = build_decks(p1_spells, p2_spells, lands)
 
     # Save decks as .txt files ready for upload to Cockatrice
     save_decks(
