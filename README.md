@@ -1,6 +1,6 @@
 # battlebox
 
-A simple program to prepare two-player digital mtg battlebox decks in .txt format. 
+A simple program to prepare two-player digital MTG Battle Box decks in .txt format. 
 Card decks are intended to be uploaded to tabletop apps, such as [Cockatrice](https://cockatrice.github.io/).
 
 ## What is Battle Box?
