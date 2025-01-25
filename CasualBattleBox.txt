@@ -1,0 +1,181 @@
+1 Faerie Guidemother
+1 Fan Bearer
+1 Sea Gate Banneret
+1 Selfless Savior
+1 Accorder Paladin
+1 Backup Agent
+1 Cathar Commando
+1 Daybreak Charger
+1 Parish-Blade Trainee
+1 Seasoned Hallowblade
+1 Silverflame Squire
+1 Whitemane Lion
+1 Loyal Gryff
+1 Makeshift Battalion
+1 Stonecloaker
+1 Basri's Acolyte
+1 Search Party Captain
+1 Blacksmith's Skill
+1 Defiant Strike
+1 Battlefield Promotion
+1 Feat of Resistance
+1 Mighty Leap
+1 Swift Response
+1 You Hear Something on Watch
+1 Homestead Courage
+1 Prismatic Ending
+1 Basilica Skullbomb
+1 +2 Mace
+1 Sentinel's Eyes
+1 Ossification
+1 Reprobation
+1 Faith's Fetters
+1 Combat Courier
+1 Faerie Vandal
+1 Jeskai Elder
+1 Looter il-Kor
+1 Moon-Circuit Hacker
+1 Stinging Lionfish
+1 Thopter Mechanic
+1 Threnody Singer
+1 Aerial Guide
+1 Frost Lynx
+1 Man-o'-War
+1 Mistral Singer
+1 Roaming Ghostlight
+1 Brainstorm
+1 Condescend
+1 Unsummon
+1 Anticipate
+1 Into the Roil
+1 Make Disappear
+1 Memory Lapse
+1 Serum Snare
+1 Startling Development
+1 Teferi's Time Twist
+1 Think Twice
+1 Frantic Search
+1 Neutralize
+1 You Find the Villains' Lair
+1 Maximize Altitude
+1 Surgical Skullbomb
+1 Bubble Snare
+1 Dockside Chef
+1 Foulmire Knight
+1 Gnarled Scarhide
+1 Corrupt Court Official
+1 Doomed Dissenter
+1 Hoard Robber
+1 Kitesail Freebooter
+1 Mardu Skullhunter
+1 Nightscape Familiar
+1 Sinister Starfish
+1 Arrogant Outlaw
+1 Deathbloom Thallid
+1 Fleshbag Marauder
+1 Manticore
+1 Skeleton Archer
+1 Loathsome Curator
+1 Disfigure
+1 Tragic Slip
+1 Village Rites
+1 You Are Already Dead
+1 Doom Blade
+1 Eliminate
+1 Fake Your Own Death
+1 Subtle Strike
+1 Bloodchief's Thirst
+1 Bone Shards
+1 Agonizing Remorse
+1 Dross Skullbomb
+1 Dead Weight
+1 Stab Wound
+1 Goblin Bushwhacker
+1 Unlucky Witness
+1 Voldaren Stinger
+1 Borderland Marauder
+1 Fissure Wizard
+1 Goblin Cratermaker
+1 Gore-House Chainwalker
+1 Lambholt Harrier
+1 Mayhem Patrol
+1 Rimrock Knight
+1 Scrapwork Mutt
+1 Underworld Rage-Hound
+1 Fervent Cathar
+1 Merchant of the Vale
+1 Spellgorger Weird
+1 Lightning Wolf
+1 Maulfist Doorbuster
+1 Infuriate
+1 Shock
+1 Abrade
+1 Chandra's Pyrohelix
+1 Fire Prophecy
+1 Sure Strike
+1 Crash Through
+1 Maximize Velocity
+1 Strangle
+1 Go for Blood
+1 Roil Eruption
+1 Pyrite Spellbomb
+1 Cartouche of Zeal
+1 Bitter Reunion
+1 Madcap Skills
+1 Basking Rootwalla
+1 Experiment One
+1 Argothian Sprite
+1 Pestilent Wolf
+1 Pollenbright Druid
+1 Predation Steward
+1 Reckless Amplimancer
+1 Venom Connoisseur
+1 Bounding Wolf
+1 Devotee of Strength
+1 Ghirapur Guide
+1 Loathsome Chimera
+1 Pridemalkin
+1 Spore Crawler
+1 Garenbrig Carver
+1 Renata, Called to the Hunt
+1 Caldaia Strongarm
+1 Tajuru Pathwarden
+1 Blossoming Defense
+1 Giant Growth
+1 Sudden Spinnerets
+1 Tamiyo's Safekeeping
+1 Titanic Growth
+1 Wilt
+1 Synchronized Strike
+1 Prey Upon
+1 Hunter's Edge
+1 Maze Skullbomb
+1 Audacity
+1 Warbriar Blessing
+1 Cartouche of Strength
+1 Iron Apprentice
+1 Containment Construct
+1 Monoskelion
+1 Cliffhaven Kitesail
+1 Obsessive Stitcher
+1 Body Dropper
+1 Invigorating Hot Spring
+1 Vernadi Shieldmate
+1 Dawnhart Wardens
+1 Umara Mystic
+1 Acolyte of Affliction
+1 Fresh-Faced Recruit
+1 Merfolk Skydiver
+1 Stormscape Apprentice
+1 Brazen Upstart
+
+1 Island
+1 Plains
+1 Forest
+1 Mountain
+1 Swamp
+1 Blossoming Sands
+1 Tranquil Cove
+1 Bloodfell Caves
+1 Dismal Backwater
+1 Rugged Highlands
