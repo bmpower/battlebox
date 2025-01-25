@@ -1,7 +1,7 @@
 [project]
 name = "battlebox"
 version = "0.1.0"
-description = "A program to manage a playable digital mtg battlebox deck."
+description = "A program to prepare two-player digital mtg battlebox decks."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
