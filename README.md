@@ -11,7 +11,7 @@ Tabletop apps typically won't have features for players to share a deck like how
 Battle Box games tend to be short; using this program helps speed up deck prep in-between games.
 
 ## Installation
-1. This project uses [uv](https://docs.astral.sh/uv/) to manage the project, its virtual environment and packages. Install uv from [here](https://docs.astral.sh/uv/getting-started/installation/). Once uv is installed, all that is required is activating the virtual environment in Step #3 below.
+1. This project uses [uv](https://docs.astral.sh/uv/) to manage the project, its virtual environment and packages. Install uv from [here](https://docs.astral.sh/uv/getting-started/installation/). Once uv is installed, all that is required after cloning the repository is activating the virtual environment.
 
 2. Clone the repository:
 ```sh
