@@ -6,7 +6,7 @@ Card decks are intended to be uploaded to tabletop apps that accept .txt deck fo
 ## What is Battle Box?
 Battle Box is a Magic The Gathering (MTG) format of play where two players share a large card deck. Check out more info on the Battle Box format from [Lucky Paper](https://luckypaper.co/articles/a-guide-to-battle-box/) and [Casual Cardboard](https://www.youtube.com/watch?v=_3K75KYFoAk).
 
-Tabletop apps typically won't have features for players to share a deck like how a Battle Box deck would be played in-person. To help make battle box playable digitally, this program can take a full battle box .txt card list, shuffle it, and prepare two .txt deck lists ready for each player to upload. Land cards are placed in each player's list so they can be played from the sideboard in-game. 
+Tabletop apps typically won't have features for players to share a deck like how a Battle Box deck would be played in-person. To help make battle box playable digitally, this program can take a full Battle Box .txt card list, shuffle it, and prepare two .txt deck lists ready for each player to upload. Land cards are placed in each player's list so they can be played from the sideboard in-game. 
 
 Battle Box games tend to be short; using this program helps speed up deck prep in-between games.
 
