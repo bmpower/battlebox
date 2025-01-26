@@ -10,11 +10,9 @@ Tabletop apps typically won't have features for players to share a deck like how
 
 Battle box games tend to be short; using this program helps speed up deck prep in-between games.
 
-
 ## Installation
 1. This project uses [uv](https://docs.astral.sh/uv/) to manage the project, its virtual environment and packages. Install uv from [here](https://docs.astral.sh/uv/getting-started/installation/). Once uv is installed, all that is required is activating the virtual environment in Step #3 below.
 
-  
 2. Clone the repository:
 ```sh
 git clone <repository-url>
@@ -27,14 +25,14 @@ uv sync
 ```
 
 ## Usage
-1. The input and output .txt directoriess are managed in a .env file. Create a [.env](http://_vscodecontentref_/1) file in battlebox root directory.
+1. The input and output .txt directories are managed as environment variables. Create a .env file in battlebox root directory and create three variables:
 ```env
-LOAD_PATH={path to load battlebox deck list .txt from}
+LOAD_PATH={path to battlebox deck list .txt}
 P1_WRITE_PATH={path to save player 1 deck list .txt}
 P1_WRITE_PATH={path to save player 2 deck list .txt}
 ```
 
-2. Run the program
+2. Run the program:
 ```sh
 uv run src/main.py
 ```
