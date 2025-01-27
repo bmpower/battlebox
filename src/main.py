@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-from load import load_cards
+from read import load_cards
 from separate import separate_lands_spells
 from shuffle import shuffle_and_split_spells
 from decks import build_decks
