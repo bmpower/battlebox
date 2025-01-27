@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from read import load_cards
 from separate import separate_lands_spells
 from shuffle import shuffle_and_split_spells
-from decks import build_decks
+from build import build_decks
 from write import save_decks
 
 
