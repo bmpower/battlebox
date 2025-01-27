@@ -19,7 +19,7 @@ def separate_lands_spells(cards: list) -> tuple[list, list]:
     lands = [card for card in cards if card in land_cards]
 
     # Separate spells - these are included in shuffle.
-    # The 'and card' condition is to exclude the space between spells and lands as a card
+    # The 'and card' condition is to exclude the space between spells and lands as a card.
     spells = [card for card in cards if card not in land_cards and card]
 
     return lands, spells
