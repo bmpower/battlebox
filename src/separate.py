@@ -1,7 +1,7 @@
 def separate_lands_spells(cards: list) -> tuple[list, list]:
-    """Separate lands and spells to prepare for shuffle and split"""
+    """Separate land cards and spell cards to prepare for shuffle and split"""
 
-    # These land cards are reserved for each player, every game
+    # These land cards are reserved for each player, every game. Never shuffled.
     land_cards = [
         "1 Island",
         "1 Plains",
@@ -15,10 +15,11 @@ def separate_lands_spells(cards: list) -> tuple[list, list]:
         "1 Rugged Highlands",
     ]
 
-    # Separate lands - we don't want these included in shuffle and split
+    # Separate lands - these should not be included in shuffle.
     lands = [card for card in cards if card in land_cards]
 
-    # Separate spells - we want these included in shuffle and split
+    # Separate spells - these are included in shuffle.
+    # The 'and card' condition is to exclude the space between spells and lands as a card
     spells = [card for card in cards if card not in land_cards and card]
 
     return lands, spells

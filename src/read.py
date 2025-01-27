@@ -2,9 +2,10 @@ from pathlib import Path
 
 
 def load_cards(load_path: str) -> list[str]:
-    """Load full battlebox card list .txt"""
+    """Load the full battlebox cards .txt from specified path and convert it to a list"""
     path = Path(load_path)
-    # Get cards in a list
+
+    # Get cards into a list
     cards = path.read_text().splitlines()
 
     return cards
