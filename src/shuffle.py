@@ -2,9 +2,9 @@ import random
 
 
 def shuffle_and_split_spells(spells: list) -> tuple[list, list]:
-    """Shuffle spell cards and split them in half"""
+    """Shuffle spell cards and split them in half."""
 
-    # Shuffle the spell cards
+    # Shuffle the spell cards.
     random.shuffle(spells)
 
     # Split the shuffled cards in half - p1 gets first half, p2 gets second half.

@@ -1,5 +1,5 @@
 def separate_lands_spells(cards: list) -> tuple[list, list]:
-    """Separate land cards and spell cards to prepare for shuffle and split"""
+    """Separate land cards and spell cards to prepare for shuffle and split."""
 
     # These land cards are reserved for each player, every game. Never shuffled.
     land_cards = [

@@ -17,7 +17,7 @@ if __name__ == "__main__":
     p1_write_path = os.getenv("P1_WRITE_PATH")
     p2_write_path = os.getenv("P2_WRITE_PATH")
 
-    # Load cards from full list and build two decks from it.
+    # Load cards from full card list and build two decks from it.
     cards = load_cards(load_path)
     lands, spells = separate_lands_spells(cards)
     p1_spells, p2_spells = shuffle_and_split_spells(spells)
