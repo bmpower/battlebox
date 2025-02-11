@@ -7,8 +7,14 @@ def build_decks(p1_spells: list, p2_spells: list, lands: list) -> tuple[list, li
 
     # Insert a space between spells and lands - this is required in .txt for deck upload.
     # Lands are always the last 10 cards in the list (to be placed in sideboard).
-    p1_spells.insert(-10, "")
-    p2_spells.insert(-10, "")
+    if lands and len(lands) == 10:
+        p1_spells.insert(-10, "")
+        p2_spells.insert(-10, "")
+    # If there are no lands or less than 10 given, add a message stating requirements.
+    else:
+        raise Exception(
+            "10 land cards are required for the sideboard! Check your Battle Box list!"
+        )
 
     # Convert final list into string for .txt with newline separator.
     p1_deck = "\n".join(p1_spells)
