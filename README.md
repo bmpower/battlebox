@@ -39,5 +39,5 @@ uv run src/main.py
 ```
 
 ## Sample Deck List
-[CasualBattleBox.txt](https://github.com/bmpower/battlebox/blob/master/CasualBattleBox.txt) shows a sample Battle Box deck list for input.
+[CasualBattleBox.txt](https://github.com/bmpower/battlebox/blob/master/CasualBattleBox.txt) holds a sample Battle Box deck list for input.
 
