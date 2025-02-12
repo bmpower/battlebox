@@ -8,7 +8,7 @@ from build import build_decks
 from write import save_decks
 
 
-if __name__ == "__main__":
+def main():
     # Load environment variables.
     load_dotenv()
 
@@ -30,3 +30,7 @@ if __name__ == "__main__":
         write_path_1=p1_write_path,
         write_path_2=p2_write_path,
     )
+
+if __name__ == "__main__":
+    main()
+    
