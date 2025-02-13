@@ -28,9 +28,9 @@ uv sync
 ## Usage
 1. The input and output .txt directories are managed as environment variables. Create a ```.env``` file in the battlebox root directory and create the following three variables in it, with the values being your paths for reading and writing the .txt files:
 ```env
-READ_PATH={path to full Battle Box deck list .txt}
-P1_WRITE_PATH={path to Player 1 deck list .txt}
-P2_WRITE_PATH={path to Player 2 deck list .txt}
+READ_PATH=<path to full Battle Box deck list .txt>
+P1_WRITE_PATH=<path to Player 1 deck list .txt>
+P2_WRITE_PATH=<path to Player 2 deck list .txt>
 ```
 
 2. Run the program:
